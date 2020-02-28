@@ -1,0 +1,27 @@
+{
+  "name": "sensorable",
+  "version": "1.0.0",
+  "description": "sensorable is a prototype tool to aid users of Ubisense sensor systems with determining good locations to place sensors in a factory.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "stats.js": "^0.17.0",
+    "three": "^0.113.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberthoenig/sensorable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberthoenig/sensorable/issues"
+  },
+  "homepage": "https://github.com/roberthoenig/sensorable#readme"
+}

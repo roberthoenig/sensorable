@@ -1,0 +1,10 @@
+{
+    "rectangleDistThreshold": 0.3,
+    "angleModelThreshold": 1.0,
+    "modelDistThreshold": 0.5,
+    "rectangleSizeFraction": 0.1,
+    "pointsModelThreshold": 0.01,
+    "modelIterations": 5000,
+    "filterRadius": 5.0,
+    "filterNeighbours": 50
+}
